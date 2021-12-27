@@ -1,0 +1,30 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<%@ page isELIgnored="false" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style>
+	ul.ticketUser li{
+	
+	padding: 5px;
+	
+	}
+
+</style>
+</head>
+<body>
+
+	
+		
+ <ul class="ticketUsers">
+<li>Sai </li>
+<li>Shiva </li>
+<li>Shree </li>
+</ul>
+  
+</body>  
+
+</html>

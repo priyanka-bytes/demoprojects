@@ -1,0 +1,174 @@
+body {
+	min-height:100%;
+	margin: 0 100px 0 100px;
+}
+
+h2 {
+    color: Blue;
+    text-align: left;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.right {
+	float:right;
+}
+
+.left {
+	float:left;
+}
+
+.content {
+	background-color:#eee;
+	border-radius:10px;
+	border:#aaa solid 1px;
+	width:30%;
+	/*text-align:center;*/
+	padding:30px;
+	margin:200px 0 0 400px;
+	
+}
+
+.no-margin {
+	margin: 0 0 0 0 !important;
+}
+
+.title-bar {
+	margin-left: 20px;
+	width:95%;
+	background-color: Blue;
+	color:#fff;
+	font-size: 30px;
+	text-align:right;
+	padding: 0 20px 0 0;
+	clear:both;
+}
+div.elem {
+	margin-bottom:10px;		
+}
+
+div.elem label, div.elem.input, div.elem.textarea {
+	width:40%;
+	float:left !important;	
+	
+}
+
+
+input, select{
+	height: 30px;
+	margin-left: -120px;
+    border-radius: 5px;
+    border: 1px solid black;
+   
+}
+
+textarea{
+	height: 70px;
+	width:50%;
+    border-radius: 5px;
+    border: 1px solid black;
+   
+}
+
+input[type=submit] {
+	background-color: blue;
+	color:#fff;
+	margin-left: 50px;
+	font-weight: bold;
+	display:block;
+	
+}
+
+
+
+.btn-success {
+	background-color: green;
+	color:#fff;
+	font-weight: bold;
+	display:block;
+	margin:auto;
+	width:auto;	
+}
+
+.btn-danger {
+	background-color: red;
+	color:#fff;
+	font-weight: bold;
+	display:block;
+	margin:auto;
+	width:auto;	
+}
+
+.multi-select {
+	height:auto !important;
+}
+
+.side-nav {
+	background-color:#ccffff;
+	width:25%;
+	height:95vh;
+}
+.side-nav1 {
+	background-color:#cecdcb;
+	width:200%;
+	height:95vh;
+}
+form{
+	width:200%;
+}
+
+.side-nav a{
+	text-decoration: none;
+}
+
+.side-nav-content {
+	background-color:#fff;
+	width:105%;
+	padding:10px 0 0 0;
+	margin:200px 0 0 400px;
+	min-height:85vh;
+}
+
+.page-title-bar {
+	background-color: Blue;
+	color:#fff;
+	font-size: 30px;
+	text-align:center;
+	clear:both;
+}
+
+.page-section {
+	background-color:#eee;
+	border-radius:20px;
+	border:#aaa solid 1px;
+	padding:30px;
+	margin:0 0 10px 0;
+	height:auto;
+}
+
+.col-12{
+	width:100% !important;
+	
+}
+.col-6{
+	width:50% !important;
+	
+}
+.col-3{
+	width:25% !important;
+	
+}
+.col-1{
+	width:16% !important;
+	
+}
+.col-6 label{
+	width:20% !important;
+}
+.col-6 label.info{
+	width:20% !important;
+	font-weight:bold;
+}

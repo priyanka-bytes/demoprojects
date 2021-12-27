@@ -1,0 +1,5 @@
+package com.bytesedge.demo.model;
+
+public enum LookupsEnum {
+	STRESS_TYPE, TREATMENT_TYPE,SPIRITUAL_PRACTICES,FAMILY_CLASS,FAMILY_TYPE,MARRIED_STATUS, YES_NO
+}
